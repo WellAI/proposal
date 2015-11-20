@@ -1,4 +1,3 @@
 # Well
 
-Well is open sourdsa 
-dsadsa dsadas defused and lipsi 
+Well is open API-Driven CMS
