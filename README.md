@@ -1,3 +1,3 @@
 # Well
 
-Well is open API-Driven CMS
+Well is open source API-Driven CMS
