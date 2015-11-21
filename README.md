@@ -2,4 +2,4 @@
 
 ___
 
-Well is open source API-Driven CMS
+Well - Open Source AI Proposal
