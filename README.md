@@ -1,4 +1,4 @@
-<a href="well.io"><img src="https://cloud.githubusercontent.com/assets/818400/11320861/fb3e94fe-90b0-11e5-8e89-6896e5ff7059.png" alt="Well" /></a>
+<a href="well.io"><img src="https://cloud.githubusercontent.com/assets/818400/11470748/ef5d4c34-9768-11e5-8efc-bff92f837e4d.png" alt="Well" /></a>
 
 ___
 
@@ -59,11 +59,14 @@ It will consist witht he following components:
 
 The reactor is the main power of well.
 
-##Ferryman
+## Fuel
+![Fuel ](https://cloud.githubusercontent.com/assets/818400/11470627/0aa6f950-9768-11e5-9e73-2169bdff7990.png "Well Fuel")
 
 This is the component which is API interface of __Well__
 
-##Heisenberg
+## Control Room
+![Control Room ](https://cloud.githubusercontent.com/assets/818400/11470632/11abf0ac-9768-11e5-9a3d-65fd1cd16a76.png "Control Room")
+
 This is the UI interface
 
 #Authors
