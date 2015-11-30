@@ -1,4 +1,4 @@
-<a href="well.io"><img src="https://cloud.githubusercontent.com/assets/818400/11470990/bc836526-976a-11e5-90ed-aaefffeafc17.png" alt="Well" /></a>
+<a href="well.io"><img src="https://cloud.githubusercontent.com/assets/818400/11471059/32b3bcd2-976b-11e5-8d19-5f22725fc8f0.png" alt="Well" /></a>
 
 ___
 
@@ -12,7 +12,7 @@ Many users run straight from the development branch (it's generally fine to do s
 
 You can find instructions here for a variety of platforms. If you decide to go with the development branch, be sure to run git submodule update --init --recursive after doing a checkout.
 
-If you want to download a tarball of a release, go to releases.ansible.com, though most users use yum (using the EPEL instructions linked above), apt (using the PPA instructions linked above), or pip install ansible.
+If you want to download a tarball of a release, go to releases.well.com, though most users use yum (using the EPEL instructions linked above), apt (using the PPA instructions linked above), or pip install well.
 
 #Background
 
@@ -54,7 +54,7 @@ It will consist witht he following components:
 
 
 ## The Reactor
-![The Reactor ](https://cloud.githubusercontent.com/assets/818400/11320976/b7a44bca-90b6-11e5-9e00-7d3bcd9e163d.jpg "Well Reactor")
+![The Reactor ](https://cloud.githubusercontent.com/assets/818400/11471071/4d8c5122-976b-11e5-9987-b5368ed9c41d.png "Well Reactor")
 
 
 The reactor is the main power of well.
@@ -70,7 +70,7 @@ This is the component which is API interface of __Well__
 This is the UI interface
 
 #Authors
-Ansible was created by Jordan Dim and has contributions from over 1000 users (and growing). Thanks everyone!
+well was created by Jordan Dim and has contributions from over 1000 users (and growing). Thanks everyone!
 
 #Support us
 
