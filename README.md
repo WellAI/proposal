@@ -1,4 +1,4 @@
-<a href="well.io"><img src="https://cloud.githubusercontent.com/assets/818400/11470748/ef5d4c34-9768-11e5-8efc-bff92f837e4d.png" alt="Well" /></a>
+<a href="well.io"><img src="https://cloud.githubusercontent.com/assets/818400/11470990/bc836526-976a-11e5-90ed-aaefffeafc17.png" alt="Well" /></a>
 
 ___
 
